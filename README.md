@@ -1,2 +1,2 @@
 # lab1
-For school purpose
+For ITMD 362 class
